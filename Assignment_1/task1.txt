@@ -1,0 +1,3 @@
+The customer has a file customer_file that keeps track of some app-instances he is running
+
+
