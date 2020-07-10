@@ -1,0 +1,12 @@
+diff, sort, uniq
+
+diff customer_file our_file
+
+1. The customer has edited his file and he thinks he has lost some entries we provided, please help him:
+- please provide him with a list of all the strings that apear in our_file and do not apear in his:
+-- start with a diff and note
+
+2. He forgot to tell you, that he not only keeps track of the entries we provide but also of the entries provided by the CIA
+
+
+2. He then realizes, that it is not enough for him to know which strings are missing, but also how many times each of the entries apears in our file

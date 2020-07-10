@@ -1,0 +1,13 @@
+1. Values in random.csv are separated with ",". For each line where there are 3 or more values, get the third value and it them into result1.txt
+
+2. From result1.txt, put all the lines that do not contain an "e" into result2.txt
+
+3. Replace the first occurence of "," in random.csv with ":" and put that in result3.txt
+
+4. Replace all occurences of "," in random.csv with ":" and put that in result4.txt
+
+5. Put all the lines that end on a 'n' in result5.txt
+
+6. Count the number of "," in random.csv and put that number in result6.txt
+
+7. Write a one-liner to compare each of the result files against the solutions-files in the Solution folder 
