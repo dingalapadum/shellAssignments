@@ -15,24 +15,26 @@ Note: The files have the same order - the only difference is in that the custome
 
 - Please help the customer:
 
+---------------------------
+
 
 1. He would like to have our_file. Unfortunately he doesn't like the format we use but he rather wants the following:
--- have the components name sorted alphabetically and have the format:
+-- have the components name sorted alphabetically 
+-- have the format:
  	
 <number of instances to install> componentName
 
 -- put that in result1.txt.
 
 
-2. he suddenly realizes that it is too complicated to go through the customer file and check how many instances he has running and figure out what to install. Please provide him with a list of the installations he has to do. Same format as result2.txt but now only with the number of installations he has to do for each of the apps (result3.txt)
+2. he suddenly realizes that it is too complicated to go through the customer file and check how many instances he has running and figure out what to install. Please provide him with a list of the installations he has to do. Same format as result2.txt but now only with the number of installations he has to do for each of the apps (result2.txt)
 
-2. provide him with a list of components he has to download again from the Custzone: note that he does not need to download the same app multiple times in order to have mutiple insances running: having each app once is enough. Please sort the apps lexicographically and put that list in result1.txt
+3. During installation he notices that he also misses the complete for some apps he misses the complete package - basically if he has no instance running, he does not have the app at all. He needs a list of the apps he has to download from the custzone. Please provide him with this list sort the apps lexicographically and put that list in result3.txt
 
 
-4. he then realizes that he needs to hand this file to the infrastructure team and they don't get it what those numbers mean. Of course he could just add a column-headers, but hey, he is paying you so blablabla... JUST DO IT! Ah, and since you need to work on the file anyway, please capitalize the first letter of every component
+4. he then realizes that he needs to hand this file to the infrastructure team and they don't get it what those numbers mean. Of course he could just add a column-headers, but hey, he is paying you so blablabla... he wants all the components with the following format and information
 
-ComponentName: total <number of total instances>, currently running <number of instances he has running>, to install <number of instances to install>
-
+componentName: total <number of total instances>, currently running <number of instances he has running>, to install <number of instances to install>
 
 
 5. OMFG, the PITA wrote another mail :( . For some funny reason he wants the file to be sorted by the number of instances he has to install. Please sort the file by the last column.
