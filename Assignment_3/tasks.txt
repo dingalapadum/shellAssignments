@@ -1,0 +1,5 @@
+1. Give a list of all the strings appearing in _all_ files
+
+2. A file with the content of file1 - file4, but without repeated lines
+
+3. Count the number of occurences of each line over all the files

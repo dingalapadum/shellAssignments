@@ -1,0 +1,5 @@
+The customer provided us with a folder with files in it. We have some of those files and some we dont.
+
+1. Check which of those files are in our project - provide a list of files the customer gave us, but we don't have
+
+2. We realize that even though we have some of the files, they sometimes don't match. Please provide a list of all the files we have, but are in a different state than what the customer gave us
